@@ -64,3 +64,6 @@ by buying the product.
 | NumWebPurchases | number of purchases made through company's web site |
 | NumWebVitisMonth | number of visits to company's web site in the last month |
 | Recency | number of days since last purchase |
+
+## Results
+You can check the project results [here](https://docs.google.com/presentation/d/1IGYMvTximVfx_LTtgN4ii5kPr8E_W4-baOwGIZdV6Bw/edit?usp=sharing) (in portuguese).
